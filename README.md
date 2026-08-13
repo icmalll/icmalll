@@ -36,7 +36,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;YT+%40+_StudyWithStudent;Open+Source+Enthusiast" alt="Typing SVG" />
+    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%40icmalll;Full+Stack+Developer)](https://git.io/typing-svg)
   </a>
 </div>
 
